@@ -1,3 +1,22 @@
+.main-content {
+    padding-top: 5em; 
+}
+
+.main-content section {
+    padding: 2em 1em;
+    text-align: center;
+}
+
+#home h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+#home p {
+    font-size: 1.2em;
+    color: #666;
+}
+
 .navbar {
   background: #333;
   font-size: 1.2em;
